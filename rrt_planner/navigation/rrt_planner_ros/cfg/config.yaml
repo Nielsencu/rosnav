@@ -1,0 +1,7 @@
+map_topic: '/map'
+path_topic: '/path'
+
+# Add more parameters here to make the RRT algorithm tunable
+max_step: 30.0
+max_vertices: 3000
+goal_radius: 10.0
